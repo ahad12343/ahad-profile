@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ahad-profile/static/css/main.28994f1a.css",
+    "main.js": "/ahad-profile/static/js/main.df8e709e.js",
+    "index.html": "/ahad-profile/index.html",
+    "main.28994f1a.css.map": "/ahad-profile/static/css/main.28994f1a.css.map",
+    "main.df8e709e.js.map": "/ahad-profile/static/js/main.df8e709e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28994f1a.css",
+    "static/js/main.df8e709e.js"
+  ]
+}
