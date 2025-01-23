@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ahad-profile/static/css/main.f45bb4d0.css",
-    "main.js": "/ahad-profile/static/js/main.953b92b9.js",
+    "main.js": "/ahad-profile/static/js/main.be28e95c.js",
     "index.html": "/ahad-profile/index.html",
     "main.f45bb4d0.css.map": "/ahad-profile/static/css/main.f45bb4d0.css.map",
-    "main.953b92b9.js.map": "/ahad-profile/static/js/main.953b92b9.js.map"
+    "main.be28e95c.js.map": "/ahad-profile/static/js/main.be28e95c.js.map"
   },
   "entrypoints": [
     "static/css/main.f45bb4d0.css",
-    "static/js/main.953b92b9.js"
+    "static/js/main.be28e95c.js"
   ]
 }
